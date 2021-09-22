@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ motd }}</h1>
+    
   </div>
 </template>
 
